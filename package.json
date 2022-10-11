@@ -2,13 +2,15 @@
   "name": "learn-threejs",
   "version": "1.0.0",
   "description": "learning threejs",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "author": "eric",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.21",
     "three": "^0.145.0"
   },
   "devDependencies": {
