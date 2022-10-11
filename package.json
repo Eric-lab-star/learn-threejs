@@ -1,0 +1,14 @@
+{
+  "name": "learn-threejs",
+  "version": "1.0.0",
+  "description": "learning threejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eric",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.145.0"
+  }
+}
